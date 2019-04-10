@@ -1,2 +1,2 @@
 def yo():
-  print('yo guy')
+  print('yo guys')
